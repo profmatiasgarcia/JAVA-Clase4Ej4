@@ -1,6 +1,6 @@
 # JAVA-Clase4Ej4
 
-<p>Ejemplo 4 del apunte de JAVA <b>Clase 4</b> </p>
+Ejemplo 4 del apunte de [JAVA Clase 4](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA4.pdf).
 <ul>
    <li> Swing </li>
    <li> Gráficos 2D </li>
